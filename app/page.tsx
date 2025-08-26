@@ -1,7 +1,7 @@
 "use client";
 
 import { navItems } from "@/data";
-import { SpotlightPreview } from "@/components/Spooot";
+//import { SpotlightPreview } from "@/components/Spooot";
 import { Hero } from "@/components/Hero";
 import Grid from "@/components/Grid";
 import Footer from "@/components/Footer";
@@ -20,8 +20,7 @@ const Home = () => {
 
           {/* About section */}
           <section id="about">
-            <SpotlightPreview />
-            <Grid />
+           
           </section>
 
           {/* Projects section */}
