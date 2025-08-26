@@ -3,7 +3,7 @@
 import { navItems } from "@/data";
 //import { SpotlightPreview } from "@/components/Spooot";
 import { Hero } from "@/components/Hero";
-import Grid from "@/components/Grid";
+//import Grid from "@/components/Grid";
 import Footer from "@/components/Footer";
 import Clients from "@/components/Clients";
 import Approach from "@/components/Approach";
